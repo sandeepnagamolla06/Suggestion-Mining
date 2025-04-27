@@ -15,3 +15,5 @@ techniques such as Recurrent Neural Networks, Long Short Term Memory, Gated Recu
 this experimentation. The BERT model attained best accuracy for suggestion mining when compared with other deep learning
 techniques.
 # Keywords: BERT, RNN, LSTM, GRU, Suggestion Mining
+# Deep Learning approach for Suggestion Mining.
+![ChatGPT Image Apr 27, 2025, 02_25_20 PM](https://github.com/user-attachments/assets/4861cd23-b9ce-4509-8714-c70efd2bc566)
